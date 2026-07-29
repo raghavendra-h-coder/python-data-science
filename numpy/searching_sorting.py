@@ -87,6 +87,6 @@ print(np.sort(matrix, axis=0))
 
 #np.searchsorted()
 # np.searchsorted() is designed to work on a sorted array.
-arr = np.array([10,2,30,4,50])
+arr = np.array([10,20,30,40,50])
 
 print(np.searchsorted(arr, 35))
