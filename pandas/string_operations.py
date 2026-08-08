@@ -39,8 +39,6 @@ students_df["City"] = students_df["City"].str.strip()
 
 print(students_df)
 
-print(students_df)
-
 # Replace Text
 students_df["City"] = students_df["City"].str.replace(
     "Delhi",

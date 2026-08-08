@@ -1,0 +1,9 @@
+StudentID,Name,Age,Gender,Department,City,Marks,Attendance,AdmissionDate,Grade,Result,AttendanceStatus
+101,Rahul,21.0,Male,CSE,Hyderabad,92.0,95.0,2023-06-15,A,Pass,Excellent
+102,Priya,22.0,Female,ECE,Chennai,88.0,90.0,2022-08-20,B,Pass,Excellent
+104,Sneha,23.0,Female,CSE,Pune,95.0,98.0,2024-02-01,A,Pass,Excellent
+106,Anjali,22.0,Female,CSE,Hyderabad,89.0,92.0,2023-07-18,B,Pass,Excellent
+109,Arjun,22.0,Male,CSE,Hyderabad,92.0,95.0,2023-06-15,A,Pass,Excellent
+110,Kavya,23.0,Female,EEE,Pune,85.0,91.0,2022-01-25,B,Pass,Excellent
+111,Rahul,21.0,Male,CSE,Hyderabad,92.0,95.0,2023-06-15,A,Pass,Excellent
+113,Surya,22.0,Male,CSE,Hyderabad,91.0,93.0,2022-10-10,A,Pass,Excellent

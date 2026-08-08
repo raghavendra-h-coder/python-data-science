@@ -1,0 +1,5 @@
+Department,StudentCount,AverageMarks,HighestMarks,LowestMarks,AverageAttendance
+CSE,6,91.83333333333333,95.0,89.0,94.66666666666667
+ECE,3,85.16666666666667,88.0,81.0,89.0
+EEE,2,80.5,85.0,76.0,88.0
+IT,4,71.75,78.0,67.0,85.375

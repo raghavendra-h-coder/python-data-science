@@ -5,7 +5,6 @@ df = pd.read_csv("../datasets/students.csv")
 print(df)
 
 print(df[df["Marks"] > 90])
-print(df[df["Marks"] > 90])
 
 print(df[df["Department"] == "CSE"])
 
