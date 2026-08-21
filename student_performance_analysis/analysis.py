@@ -100,6 +100,10 @@ students_df["AttendanceStatus"] = students_df["Attendance"].apply(
 
 print(students_df)
 
+students_df.to_csv(
+    "datasets/students_with_statistics.csv",
+    index=False
+)
 
 #statistics
 #marks statistics

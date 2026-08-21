@@ -1,0 +1,16 @@
+StudentID,Name,Age,Gender,Department,City,Marks,Attendance,AdmissionDate,Grade,Result,AttendanceStatus
+101,Rahul,21.0,Male,CSE,Hyderabad,92.0,95.0,2023-06-15,A,Pass,Excellent
+102,Priya,22.0,Female,ECE,Chennai,88.0,90.0,2022-08-20,B,Pass,Excellent
+103,Amit,20.0,Male,EEE,Bangalore,76.0,85.0,2021-01-10,C,Pass,Good
+104,Sneha,23.0,Female,CSE,Pune,95.0,98.0,2024-02-01,A,Pass,Excellent
+105,Vikram,21.0,Male,IT,Delhi,67.0,80.0,2022-05-12,D,Pass,Good
+106,Anjali,22.0,Female,CSE,Hyderabad,89.0,92.0,2023-07-18,B,Pass,Excellent
+107,Rohan,20.0,Male,ECE,Mumbai,81.0,88.0,2022-09-14,B,Pass,Good
+108,Meera,21.0,Female,IT,Chennai,73.0,84.0,2021-11-05,C,Pass,Good
+109,Arjun,22.0,Male,CSE,Hyderabad,92.0,95.0,2023-06-15,A,Pass,Excellent
+110,Kavya,23.0,Female,EEE,Pune,85.0,91.0,2022-01-25,B,Pass,Excellent
+111,Rahul,21.0,Male,CSE,Hyderabad,92.0,95.0,2023-06-15,A,Pass,Excellent
+112,Neha,21.0,Female,IT,Delhi,78.0,87.0,2023-03-20,C,Pass,Good
+113,Surya,22.0,Male,CSE,Hyderabad,91.0,93.0,2022-10-10,A,Pass,Excellent
+114,Pooja,21.0,Female,ECE,Bangalore,86.5,89.0,2023-01-18,B,Pass,Good
+115,Kiran,20.0,Male,IT,Hyderabad,69.0,90.5,2024-01-10,D,Pass,Excellent
